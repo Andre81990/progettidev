@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/SpringBoot_esercizi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crud-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom-queries-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom-queries-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/email-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/email-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hybernate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interceptors-middleware-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interceptors-middleware-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interceptors-review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock-db" vcs="Git" />
+  </component>
+</project>

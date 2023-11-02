@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/deploy-1/pom.xml" />
+        <option value="$PROJECT_DIR$/deploy-2/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-queries-1/pom.xml" />
+        <option value="$PROJECT_DIR$/interceptors-middleware-1/pom.xml" />
+        <option value="$PROJECT_DIR$/interceptors-middleware-2/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-queries-2/pom.xml" />
+        <option value="$PROJECT_DIR$/hybernate/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot_esercizi/pom.xml" />
+        <option value="$PROJECT_DIR$/email-1/pom.xml" />
+        <option value="$PROJECT_DIR$/email-2/pom.xml" />
+        <option value="$PROJECT_DIR$/crud-test/pom.xml" />
+        <option value="$PROJECT_DIR$/mock-db/pom.xml" />
+        <option value="$PROJECT_DIR$/interceptors-review/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

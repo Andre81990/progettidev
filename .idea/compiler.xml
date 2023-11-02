@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="deploy-2" />
+        <module name="eserciziSpringBoot" />
+        <module name="deploy-1" />
+        <module name="interceptors-middleware-2" />
+        <module name="interceptors-middleware-1" />
+        <module name="crud" />
+        <module name="hybernate" />
+        <module name="mock-db" />
+        <module name="hello-mvc-test" />
+        <module name="custom-queries-1" />
+        <module name="custom-queries-2" />
+        <module name="email-2" />
+        <module name="email-1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="crud" options="-parameters" />
+      <module name="custom-queries-1" options="-parameters" />
+      <module name="custom-queries-2" options="-parameters" />
+      <module name="deploy-1" options="-parameters" />
+      <module name="deploy-2" options="-parameters" />
+      <module name="email-1" options="-parameters" />
+      <module name="email-2" options="-parameters" />
+      <module name="eserciziSpringBoot" options="-parameters" />
+      <module name="hello-mvc-test" options="-parameters" />
+      <module name="hybernate" options="-parameters" />
+      <module name="interceptors-middleware-1" options="-parameters" />
+      <module name="interceptors-middleware-2" options="-parameters" />
+      <module name="mock-db" options="-parameters" />
+    </option>
+  </component>
+</project>
